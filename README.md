@@ -2,4 +2,4 @@
 ## About
 - これはGit練習用のレポジトリです。
 
-## Change Log
+### change log
